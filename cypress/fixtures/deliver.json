@@ -1,0 +1,52 @@
+{
+"signup":{
+    "name": "Fernando rocha",
+            "cpf": "12345678911",
+            "email": "fernando@hotmail.com",
+            "whatsapp": "11999999999",
+            "anddress": {
+                "postalcode": "06340390",
+                "street": "Rua Francisco Abruzzesse",
+                "number": "145",
+                "details": "Ap 142",
+                "district": "Parque Santa Teresa",
+                "city_state": "Carapicuíba/SP"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+        "cpf_inv":{
+            "name": "João lucas",
+            "cpf": "x12345678911aa",
+            "email": "joao@hotmail.com",
+            "whatsapp": "11999999999",
+            "anddress": {
+                "postalcode": "06340390",
+                "street": "Rua Francisco Abruzzesse",
+                "number": "145",
+                "details": "Ap 142",
+                "district": "Parque Santa Teresa",
+                "city_state": "Carapicuíba/SP"
+            
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        },
+        "email_inv":{
+            "name": "Fernando rocha",
+                    "cpf": "12345678911",
+                    "email": "fernando.hotmail.com",
+                    "whatsapp": "11999999999",
+                    "anddress": {
+                        "postalcode": "06340390",
+                        "street": "Rua Francisco Abruzzesse",
+                        "number": "145",
+                        "details": "Ap 142",
+                        "district": "Parque Santa Teresa",
+                        "city_state": "Carapicuíba/SP"
+                           },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+        }
+    }
+
